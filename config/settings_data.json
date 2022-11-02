@@ -121,7 +121,7 @@
             "settings": {
               "show_footer_title": false,
               "menu": "footer",
-              "container_width": 25
+              "container_width": 50
             }
           }
         },
