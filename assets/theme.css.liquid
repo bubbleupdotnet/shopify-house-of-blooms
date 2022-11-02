@@ -4410,7 +4410,7 @@ tool-tip[data-tool-tip-open=true] .tool-tip__inner{
   }
 
 .site-footer{
-  padding-bottom:30px;
+  
   background-color:{{ settings.color_footer | default: "#111" }};
   background-color:var(--colorFooter);
   color:{{ settings.color_footer_text | default: "#fff" }};
@@ -4419,6 +4419,7 @@ tool-tip[data-tool-tip-open=true] .tool-tip__inner{
 
 .site-footer-bottom {
   background-color: {{ settings.color_footer | default: "#111" | color_darken: 5 }};
+  padding: 30px 0;
 }
 
 @media only screen and (min-width:769px){
