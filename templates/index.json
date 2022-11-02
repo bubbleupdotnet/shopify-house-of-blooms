@@ -120,9 +120,9 @@
             "top_subheading": "",
             "title": "Say Thank You",
             "title_size": 60,
-            "subheading": "Make someone smile with a modern arrangement",
+            "subheading": "Make someone smile with a modern thank you arrangement",
             "link": "",
-            "link_text": "Shop 'Thank You' Arrangements",
+            "link_text": "Shop Thank You Collection",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "#9e2d4d",
@@ -145,11 +145,94 @@
         "autoplay": true,
         "autoplay_speed": 5
       }
+    },
+    "8f5a995b-5ec9-4627-90f2-a06b254cb056": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/peach-roses-on-table.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "The Lavish Collection",
+        "text": "<p>Wow them with Lavish Collection flowers by House of Blooms! Including something for every occasion.<\/p>",
+        "button_label": "Shop Lavish Collection",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "01d2fb1e-f6a3-491a-8cb6-775d135f5a1d": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/woman-grasping-flowers.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Anniversary collection",
+        "text": "<p>Nothing says love and romance like surprising your loved one with a stunning bouquet on your special day.<\/p>",
+        "button_label": "Shop Anniversary Collection",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "b1dd7141-8e32-4f0f-bc7c-781e38cd3a37": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Best Sellers",
+        "home_featured_products": "",
+        "per_row": 3,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "90d23676-e360-4478-85d3-0be0f0ee3b21": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15980294242463__90d23676-e360-4478-85d3-0be0f0ee3b21-16674089464409f226-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Just Because",
+            "title_size": 60,
+            "subheading": "You don't need a reason to give the gift of flowers",
+            "link": "",
+            "link_text": "Shop Just Because Collection",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#9e2d4d",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/vase-of-pink-purple-and-white-flower-arrangement.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15980294242463__90d23676-e360-4478-85d3-0be0f0ee3b21-16674089464409f226-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "250px",
+        "parallax": true,
+        "style": "minimal",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
     }
   },
   "order": [
     "slideshow",
     "6695862c-09fc-4d99-ad46-72a6423a1204",
-    "1c798c04-2dae-4af7-9d7c-ee8d32365346"
+    "1c798c04-2dae-4af7-9d7c-ee8d32365346",
+    "8f5a995b-5ec9-4627-90f2-a06b254cb056",
+    "01d2fb1e-f6a3-491a-8cb6-775d135f5a1d",
+    "b1dd7141-8e32-4f0f-bc7c-781e38cd3a37",
+    "90d23676-e360-4478-85d3-0be0f0ee3b21"
   ]
 }
