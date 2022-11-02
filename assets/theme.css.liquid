@@ -1713,19 +1713,19 @@ body {
     position: absolute;
     top: 0;
     height: 100%;
-    width: calc(50% - 4rem);
+    width: calc(50vw - 40rem);
     background-size: 200% auto;
     background-repeat: repeat-y;
     background-image: url(body-bg.png);
   }
 
   .page-container:before {
-    transform: translateX(-50%);
+    left: 0;
     background-position: top right;
   }
 
   .page-container:after {
-    transform: translateX(50%);
+    right: 0;
     background-position: top left;
   }
 }
