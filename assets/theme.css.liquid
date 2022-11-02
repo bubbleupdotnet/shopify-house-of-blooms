@@ -5776,7 +5776,7 @@ form+.footer__social{
     border-bottom:2px solid;
     border-bottom-color:{{ settings.color_header_text | default: "#000" }};
     border-bottom-color:var(--colorNavText);
-    transition:right 0.5s
+    transition:right 0.25s ease-in-out
   }
 
 [data-disable-animations=true] .site-nav__link--underline:after{
@@ -5788,8 +5788,8 @@ form+.footer__social{
 }
 
 .site-nav--has-dropdown .site-nav__link--underline:after{
-    border-bottom-color:{{ settings.color_body_text | default: "#1c1d1d" }};
-    border-bottom-color:var(--colorTextBody)
+    border-bottom-color:{{ settings.color_button_text | default: "#1c1d1d" }};
+    border-bottom-color:var(--colorBtnPrimaryText)
 }
 
 .site-nav__item:hover .site-nav__link--underline:after{
