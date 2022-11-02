@@ -1706,8 +1706,9 @@ body {
 
 @media only screen and (min-width: 750px) {
   body {
-    background-size: calc(50vw - 40rem) auto;
-    background-position: top left, top right;
+    --size: 50vw - 40rem;
+    background-size: calc(var(--size)) auto;
+    background-position: top left calc((var(--size) / 2), top right calc((var(--size) / 2;
     background-repeat: repeat-y, repeat-y;
     background-image: url(body-bg.png), url(body-bg.png);
   }
