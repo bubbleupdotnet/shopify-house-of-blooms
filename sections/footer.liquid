@@ -41,16 +41,7 @@
 
         <div {{ block.shopify_attributes }} class="grid__item footer__item--{{ block.id }}" data-type="{{ block.type }}">
           {%- style -%}
-            @media only screen and (min-width: 769px) and (max-width: 959px) {
-              .footer__item--{{ block.id }} {
-                width: 50%;
-                padding-top: 40px;
-              }
-              .footer__item--{{ block.id }}:nth-child(2n + 1) {
-                clear: left;
-              }
-            }
-            @media only screen and (min-width: 960px) {
+            @media only screen and (min-width: 769px) {
               .footer__item--{{ block.id }} {
                 width: {{ block.settings.container_width }}%;
               }
