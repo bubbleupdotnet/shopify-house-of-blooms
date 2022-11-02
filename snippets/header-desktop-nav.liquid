@@ -35,7 +35,7 @@
         {%- assign previous_column_type = '' -%}
         {%- assign animation_column = 1 -%}
 
-        <div class="site-nav__dropdown megamenu text-left">
+        <div class="site-nav__dropdown megamenu">
           <div class="page-width">
             <div class="grid{% if dropdown_alignment == 'center' %} grid--center{% endif %}">
               <div class="grid__item medium-up--one-fifth appear-animation appear-delay-{{ animation_column }}">
@@ -94,7 +94,7 @@
           </div>
         </div>
       {%- elsif has_dropdown -%}
-        <ul class="site-nav__dropdown text-left">
+        <ul class="site-nav__dropdown">
           {%- for childlink in link.links -%}
             {%- liquid
               assign has_sub_dropdown = false
