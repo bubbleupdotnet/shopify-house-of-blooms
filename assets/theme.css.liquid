@@ -7556,7 +7556,8 @@ input[type=image]{
 .feature-row__image{
   display:block;
   margin:0 auto;
-  order:1
+  order:1;
+  clip-path: polygon(1rem 0, 100% 0, calc(100% - 1rem), calc(100% - 1rem), 0 100%, 0 1rem);
 }
 
 @media only screen and (min-width:769px){
