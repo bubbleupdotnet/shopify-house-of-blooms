@@ -1704,45 +1704,15 @@ body {
   position: relative;
 }
 
-@media only screen and (min-width: 768px) {
-
-  .page-container:before,
-  .page-container:after {
-    content:"";
-    display: block;
-    position: absolute;
-    top: 0;
-    height: 100%;
-    width: max(min(calc(50vw - 40rem), 10rem), 2rem);
-    background-size: 200% auto;
-    background-repeat: repeat-y;
-    background-image: url(body-bg.png);
-    z-index: -1;
-  }
-
-  .page-container:before {
-    left: 0;
-    background-position: top right;
-  }
-
-  .page-container:after {
-    right: 0;
-    background-position: top left;
+@media only screen and (min-width: 750px) {
+  body {
+    background-size: 16rem auto;
+    background-position: top left -8rem, top right -8rem;
+    background-repeat: repeat-y, repeat-y;
+    background-image: url(bg-2.png), url(bg-2.png);
   }
 }
 
-
-
-
-body:before {
-  left: 0;
-  background-position: top right;
-}
-
-body:after {
-  background-position: top left;
-  right: 0;
-}
 
 article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{
   display:block;
@@ -2076,7 +2046,7 @@ html[dir=rtl]{
   direction:rtl;
 }
 
-html{
+body,html{
   background-color:{{ settings.color_body_bg | default: "#fff" }};
   background-color:var(--colorBody);
   color:{{ settings.color_body_text | default: "#1c1d1d" }};
