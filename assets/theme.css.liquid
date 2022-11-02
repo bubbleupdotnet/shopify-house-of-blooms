@@ -1704,24 +1704,11 @@ body {
   position: relative;
 }
 
-body:before,
-body:after {
-  content:"";
-  display: block;
-  width: 10rem;
-  position: absolute;
-  top: 0;
-  height: 100%;
-  background-size: 200% auto;
-  background-repeat: repeat-y;
-  background-image: url(body-bg.png);
-}
-
-@media (min-width: 1700px) {
-  body:before,
-  body:after {
-    width: 5rem;
-  }
+body {
+  background-size: 34px auto;
+  background-position: top left - 17px, top right - 17px;
+  background-repeat: repeat-y, repeat-y;
+  background-image: url(body-bg.png), url(body-bg.png);
 }
 
 body:before {
