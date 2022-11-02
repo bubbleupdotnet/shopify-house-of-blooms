@@ -178,18 +178,6 @@
         "divider": false
       }
     },
-    "b1dd7141-8e32-4f0f-bc7c-781e38cd3a37": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Best Sellers",
-        "home_featured_products": "",
-        "per_row": 3,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": false,
-        "divider": false
-      }
-    },
     "90d23676-e360-4478-85d3-0be0f0ee3b21": {
       "type": "slideshow",
       "blocks": {
@@ -224,6 +212,34 @@
         "autoplay": true,
         "autoplay_speed": 5
       }
+    },
+    "b1dd7141-8e32-4f0f-bc7c-781e38cd3a37": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Best Sellers",
+        "home_featured_products": "",
+        "per_row": 3,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "a8575ecc-f919-4870-8fb5-64033cbd65b1": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/SugarLand_387_c1523cdc-1b6a-4c78-b09a-f20f1e6124c8.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "About House of Blooms",
+        "text": "<p>When people receive our flowers we often hear this is the most gorgeous flower design they've ever received. When delivering in hospitals or offices, our designs turn heads.<\/p>",
+        "button_label": "Read More",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -232,7 +248,8 @@
     "1c798c04-2dae-4af7-9d7c-ee8d32365346",
     "8f5a995b-5ec9-4627-90f2-a06b254cb056",
     "01d2fb1e-f6a3-491a-8cb6-775d135f5a1d",
+    "90d23676-e360-4478-85d3-0be0f0ee3b21",
     "b1dd7141-8e32-4f0f-bc7c-781e38cd3a37",
-    "90d23676-e360-4478-85d3-0be0f0ee3b21"
+    "a8575ecc-f919-4870-8fb5-64033cbd65b1"
   ]
 }
