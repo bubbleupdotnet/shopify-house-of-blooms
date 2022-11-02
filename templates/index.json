@@ -240,6 +240,55 @@
         "layout": "right",
         "divider": false
       }
+    },
+    "b1972507-1947-40ef-9a92-778dc9364294": {
+      "type": "countdown",
+      "blocks": {
+        "template--15980294242463__b1972507-1947-40ef-9a92-778dc9364294-1667408945cf13e416-0": {
+          "type": "content",
+          "settings": {
+            "heading": "Countdown",
+            "heading_size": "h2",
+            "text": "<p>Use this timer to create urgency and boost sales.<\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "template--15980294242463__b1972507-1947-40ef-9a92-778dc9364294-1667408945cf13e416-1": {
+          "type": "timer",
+          "settings": {
+            "year": "2023",
+            "month": "01",
+            "day": "1",
+            "hour": "03",
+            "minute": "00",
+            "hide_timer": false,
+            "text": ""
+          }
+        },
+        "template--15980294242463__b1972507-1947-40ef-9a92-778dc9364294-1667408945cf13e416-2": {
+          "type": "button",
+          "settings": {
+            "button_link": "",
+            "button": "Shop Collection",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "template--15980294242463__b1972507-1947-40ef-9a92-778dc9364294-1667408945cf13e416-0",
+        "template--15980294242463__b1972507-1947-40ef-9a92-778dc9364294-1667408945cf13e416-1",
+        "template--15980294242463__b1972507-1947-40ef-9a92-778dc9364294-1667408945cf13e416-2"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": false,
+        "text_color": "#000",
+        "background_color": "#FFF",
+        "overlay_color": "#000",
+        "overlay_opacity": 0,
+        "focal_point": "center",
+        "mobile_image_focal_point": "top"
+      }
     }
   },
   "order": [
@@ -250,6 +299,7 @@
     "01d2fb1e-f6a3-491a-8cb6-775d135f5a1d",
     "90d23676-e360-4478-85d3-0be0f0ee3b21",
     "b1dd7141-8e32-4f0f-bc7c-781e38cd3a37",
-    "a8575ecc-f919-4870-8fb5-64033cbd65b1"
+    "a8575ecc-f919-4870-8fb5-64033cbd65b1",
+    "b1972507-1947-40ef-9a92-778dc9364294"
   ]
 }
