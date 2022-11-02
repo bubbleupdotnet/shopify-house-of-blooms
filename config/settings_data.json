@@ -142,12 +142,22 @@
               "text": "<p><a href=\"tel:2822421555\" title=\"tel:2822421555\">(282) 242-1555<\/a><\/p>",
               "container_width": 25
             }
+          },
+          "8dca94d2-3ea9-4ddb-9810-d12c437ac5d0": {
+            "type": "newsletter",
+            "settings": {
+              "show_footer_title": false,
+              "title": "Sign up and save",
+              "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>",
+              "container_width": 25
+            }
           }
         },
         "block_order": [
           "1494301487049",
           "ba870b7f-adfa-4b65-a255-eac0ee1e9d21",
-          "5b8ec45c-854e-4a73-9957-377183d252d7"
+          "5b8ec45c-854e-4a73-9957-377183d252d7",
+          "8dca94d2-3ea9-4ddb-9810-d12c437ac5d0"
         ],
         "settings": {
           "show_locale_selector": false,
