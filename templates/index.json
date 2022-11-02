@@ -157,7 +157,7 @@
         "button_label": "Shop Lavish Collection",
         "button_link": "",
         "button_style": "primary",
-        "align_text": "left",
+        "align_text": "center",
         "layout": "right",
         "divider": false
       }
@@ -173,7 +173,7 @@
         "button_label": "Shop Anniversary Collection",
         "button_link": "",
         "button_style": "primary",
-        "align_text": "left",
+        "align_text": "center",
         "layout": "left",
         "divider": false
       }
@@ -236,7 +236,7 @@
         "button_label": "Read More",
         "button_link": "",
         "button_style": "primary",
-        "align_text": "left",
+        "align_text": "center",
         "layout": "right",
         "divider": false
       }

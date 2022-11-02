@@ -1704,25 +1704,35 @@ body {
   position: relative;
 }
 
-body:before,
-body:after {
-  content:"";
-  display: block;
-  width: 10rem;
-  position: absolute;
-  top: 0;
-  height: 100%;
-  background-size: 200% auto;
-  background-repeat: repeat-y;
-  background-image: url(body-bg.png);
-}
+@media only screen and (min-width: 768px) {
 
-@media (min-width: 1700px) {
-  body:before,
-  body:after {
-    width: 5rem;
+  .page-container:before,
+  .page-container:after {
+    content:"";
+    display: block;
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: max(min(calc(50vw - 40rem), 10rem), 2rem);
+    background-size: 200% auto;
+    background-repeat: repeat-y;
+    background-image: url(body-bg.png);
+    z-index: -1;
+  }
+
+  .page-container:before {
+    left: 0;
+    background-position: top right;
+  }
+
+  .page-container:after {
+    right: 0;
+    background-position: top left;
   }
 }
+
+
+
 
 body:before {
   left: 0;
@@ -2066,7 +2076,7 @@ html[dir=rtl]{
   direction:rtl;
 }
 
-body,html{
+html{
   background-color:{{ settings.color_body_bg | default: "#fff" }};
   background-color:var(--colorBody);
   color:{{ settings.color_body_text | default: "#1c1d1d" }};
