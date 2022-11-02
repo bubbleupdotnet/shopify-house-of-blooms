@@ -49,7 +49,7 @@
     "product_grid_image_size": "square",
     "product_hover_image": true,
     "collection_grid_style": "below",
-    "collection_grid_shape": "square",
+    "collection_grid_shape": "portrait",
     "collection_grid_image": "product",
     "collection_grid_text_align": "center",
     "collection_grid_tint": "#444444",
