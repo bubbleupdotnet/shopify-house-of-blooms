@@ -126,28 +126,10 @@
               "menu": "footer",
               "container_width": 25
             }
-          },
-          "1494292487693": {
-            "type": "newsletter",
-            "settings": {
-              "show_footer_title": true,
-              "title": "Sign up and save",
-              "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>",
-              "container_width": 33
-            }
-          },
-          "1494301487048": {
-            "type": "logo_social",
-            "settings": {
-              "desktop_logo_height": 50,
-              "container_width": 95
-            }
           }
         },
         "block_order": [
-          "1494301487049",
-          "1494292487693",
-          "1494301487048"
+          "1494301487049"
         ],
         "settings": {
           "show_locale_selector": true,
@@ -215,30 +197,30 @@
           "footer-promotions-0": {
             "type": "promotion",
             "settings": {
-              "enable_image": true,
-              "title": "Site-wide promotion",
-              "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
-              "button_label": "Optional button",
+              "enable_image": false,
+              "title": "Local & Nationwide Delivery",
+              "text": "<p>Place your order by 1PM for same day residential, hospital, and business delivery.<\/p>",
+              "button_label": "",
               "button_link": ""
             }
           },
           "footer-promotions-1": {
             "type": "promotion",
             "settings": {
-              "enable_image": true,
-              "title": "Site-wide promotion",
-              "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
-              "button_label": "Optional button",
+              "enable_image": false,
+              "title": "100% Fresh Guaranteed",
+              "text": "<p>Once your order is placed, our thoughtful floral artisans put together your arrangement by hand. Every time.<\/p>",
+              "button_label": "",
               "button_link": ""
             }
           },
           "footer-promotions-2": {
             "type": "promotion",
             "settings": {
-              "enable_image": true,
-              "title": "Site-wide promotion",
-              "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
-              "button_label": "Optional button",
+              "enable_image": false,
+              "title": "Custom Floral Designs",
+              "text": "<p>We take pride and the time to create each fresh design just for you, because it's the customer we care about most.<\/p>",
+              "button_label": "",
               "button_link": ""
             }
           }
