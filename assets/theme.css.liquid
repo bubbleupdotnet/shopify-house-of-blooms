@@ -1705,18 +1705,19 @@ body {
 }
 
 body {
-  background-size: 34px auto;
-  background-position: top left -17px, top right -17px;
+  --bgSize: 34px;
+  background-size: var(--bgSize) auto;
+  background-position: top left calc(-1 * (var(--bgSize) / 2)), top right calc(-1 * (var(--bgSize) / 2));
   background-repeat: repeat-y, repeat-y;
   background-image: url(body-bg.png), url(body-bg.png);
 }
 
-@media only screen and (min-width: 750px) {
+/* @media only screen and (min-width: 750px) {
   body {
     background-size: calc(100vw - 80rem) auto;
     background-position: top left calc(-50vw + 40rem), top right calc(-50vw + 40rem);
   }
-} 
+}  */
 
 
 
