@@ -1704,12 +1704,14 @@ body {
   position: relative;
 }
 
-body {
-  --bgSize: 34px;
-  background-size: var(--bgSize) auto;
-  background-position: top left calc(-1 * (var(--bgSize) / 2)), top right calc(-1 * (var(--bgSize) / 2));
-  background-repeat: repeat-y, repeat-y;
-  background-image: url(body-bg.png), url(body-bg.png);
+@media only screen and (min-width: 750px) {
+  body {
+    --bgSize: 10vw;
+    background-size: var(--bgSize) auto;
+    background-position: top left calc(-1 * (var(--bgSize) / 2)), top right calc(-1 * (var(--bgSize) / 2));
+    background-repeat: repeat-y, repeat-y;
+    background-image: url(body-bg.png), url(body-bg.png);
+  }
 }
 
 /* @media only screen and (min-width: 750px) {
