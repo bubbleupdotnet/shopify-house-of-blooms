@@ -120,9 +120,9 @@
             "top_subheading": "",
             "title": "Say Thank You",
             "title_size": 60,
-            "subheading": "Make someone smile with a modern arrangement",
+            "subheading": "Make someone smile with a modern thank you arrangement",
             "link": "",
-            "link_text": "Shop 'Thank You' Arrangements",
+            "link_text": "Shop Arrangements",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "#9e2d4d",
@@ -145,11 +145,28 @@
         "autoplay": true,
         "autoplay_speed": 5
       }
+    },
+    "8f5a995b-5ec9-4627-90f2-a06b254cb056": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/peach-roses-on-table.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "The Lavish Collection",
+        "text": "<p>Wow them with Lavish Collection flowers by House of Blooms! Including something for every occasion.<\/p>",
+        "button_label": "Shop Lavish Collection",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
     }
   },
   "order": [
     "slideshow",
     "6695862c-09fc-4d99-ad46-72a6423a1204",
-    "1c798c04-2dae-4af7-9d7c-ee8d32365346"
+    "1c798c04-2dae-4af7-9d7c-ee8d32365346",
+    "8f5a995b-5ec9-4627-90f2-a06b254cb056"
   ]
 }
