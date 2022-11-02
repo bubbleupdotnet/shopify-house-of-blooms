@@ -2,54 +2,35 @@
   "sections": {
     "slideshow": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "slideshow-0": {
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Two line\ntitle slide.",
-            "title_size": 80,
-            "subheading": "And optional subtext",
+            "title": "Hello Autumn",
+            "title_size": 60,
+            "subheading": "Fall in love with our autumn flowers",
             "link": "shopify:\/\/collections\/all",
-            "link_text": "Shop this",
+            "link_text": "Shop By Occasion",
             "link_2": "shopify:\/\/collections\/all",
-            "link_text_2": "Shop all",
-            "color_accent": "#000000",
+            "link_text_2": "Shop by Collection",
+            "color_accent": "#9e2d4d",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/portrait-of-floral-arrangement-in-natural-light.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
-            "focal_point": "top center"
-          }
-        },
-        "slideshow-1": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Two line\ntitle slide.",
-            "title_size": 80,
-            "subheading": "And optional subtext",
-            "link": "shopify:\/\/collections\/all",
-            "link_text": "Shop all",
-            "link_2": "shopify:\/\/collections\/all",
-            "link_text_2": "Shop all",
-            "color_accent": "#000000",
-            "text_align": "vertical-bottom horizontal-left",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "focal_point": "top center"
+            "focal_point": "center center"
           }
         }
       },
       "block_order": [
-        "slideshow-0",
-        "slideshow-1"
+        "slideshow-0"
       ],
       "settings": {
         "section_height": "750px",
         "mobile_height": "auto",
-        "parallax": true,
-        "style": "bars",
+        "parallax": false,
+        "style": "minimal",
         "autoplay": true,
         "autoplay_speed": 7
       }
