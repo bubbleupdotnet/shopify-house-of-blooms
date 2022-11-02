@@ -5439,16 +5439,16 @@ form+.footer__social{
 }
 
 .toolbar{
-  background:{{ settings.color_header | default: "#fff" }};
-  background:var(--colorNav);
-  color:{{ settings.color_header_text | default: "#000" }};
-  color:var(--colorNavText);
+  background-color:{{ settings.color_announcement | default: "#1c1d1d" }};
+  background-color:var(--colorAnnouncement);
+  color:{{ settings.color_announcement_text | default: "#fff" }};
+  color:var(--colorAnnouncementText);
   font-size:calc(var(--typeBaseSize)*0.85)
 }
 
 .toolbar a{
-    color:{{ settings.color_header_text | default: "#000" }};
-    color:var(--colorNavText);
+    color:{{ settings.color_announcement_text | default: "#fff" }};
+    color:var(--colorAnnouncementText);
   }
 
 .site-header--stuck .toolbar{
