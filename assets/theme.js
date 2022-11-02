@@ -2604,7 +2604,7 @@ lazySizesConfig.expFactor = 4;
       // fallback if undefined
       // NaN is the only value that doesn't equal itself
       if (angle !== angle) angle = 270; // move to bottom (default parallax effect)
-      if (movementPixels !== movementPixels) movementPixels = 100; // 100px
+      if (movementPixels !== movementPixels) movementPixels = -200; // 100px
   
       // check if angle is located in top half and/or left half
       angle %= 360;
