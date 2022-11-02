@@ -1705,21 +1705,30 @@ body {
 }
 
 @media only screen and (min-width: 750px) {
-  body {
-    --size: 50vw - 40rem;
-    background-size: calc(var(--size)) auto;
-    background-position: top left calc(var(--size) / -2), top right calc(var(--size) / -2);
-    background-repeat: repeat-y, repeat-y;
-    background-image: url(body-bg.png), url(body-bg.png);
+
+  .page-container:before,
+  .page-container:after {
+    content:"";
+    display: block;
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: calc(50% - 4rem);
+    background-size: 200% auto;
+    background-repeat: repeat-y;
+    background-image: url(body-bg.png);
+  }
+
+  .page-container:before {
+    transform: translateX(-50%);
+    background-position: top right;
+  }
+
+  .page-container:after {
+    transform: translateX(50%);
+    background-position: top left;
   }
 }
-
-/* @media only screen and (min-width: 750px) {
-  body {
-    background-size: calc(100vw - 80rem) auto;
-    background-position: top left calc(-50vw + 40rem), top right calc(-50vw + 40rem);
-  }
-}  */
 
 
 
