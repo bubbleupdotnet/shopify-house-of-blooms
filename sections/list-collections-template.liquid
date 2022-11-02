@@ -28,7 +28,7 @@
     </header>
   {%- endif -%}
 
-  <div class="grid grid--uniform{% unless settings.collection_grid_gutter %} grid--no-gutters{% endunless %}">
+  <div class="grid grid--center grid--uniform{% unless settings.collection_grid_gutter %} grid--no-gutters{% endunless %}">
     {%- if section.settings.display_type == 'all' -%}
       {%- liquid
         case section.settings.sort
