@@ -28,6 +28,16 @@
   {%- endstyle -%}
 {%- endif -%}
 
+{% if section.settings.bar_image %}
+<div class="site-footer-bar-image"></div>
+<style>
+  .site-footer-bar-image {
+    height: 30px;
+    background: url({{ section.settings.bar_image | image_url: '1920x' }}) center center no-repeat;
+    background-size: cover;
+  }
+</style>
+{% endif %}
 <footer class="site-footer" data-section-id="{{ section.id }}" data-section-type="footer-section">
   <div class="page-width">
     <div class="grid">
