@@ -1700,6 +1700,13 @@ body,html{
   margin:0;
 }
 
+body {
+  background-size: auto 100vh, auto 100vh;
+  background-position: top left, top right;
+  background-repeat: repeat-y, repeat-y;
+  background-image: url(body-bg.png), url(body-bg.png);
+} 
+
 article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{
   display:block;
 }
@@ -12427,13 +12434,6 @@ html[dir=rtl] .product-single__meta .rte{
   body,html{
     background-color:#fff;
   }
-
-  body {
-    background-size: auto 100vh, auto 100vh;
-    background-position: top left, top right;
-    background-repeat: repeat-y, repeat-y;
-    background-image: url(body-bg.png), url(body-bg.png);
-  } 
 
   .giftcard-header{
     padding:10px 0;
