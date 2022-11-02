@@ -150,7 +150,7 @@
       "type": "text-and-image",
       "settings": {
         "image": "shopify:\/\/shop_images\/peach-roses-on-table.jpg",
-        "image_width": 700,
+        "image_width": 1000,
         "subtitle": "",
         "title": "The Lavish Collection",
         "text": "<p>Wow them with Lavish Collection flowers by House of Blooms! Including something for every occasion.<\/p>",
@@ -166,7 +166,7 @@
       "type": "text-and-image",
       "settings": {
         "image": "shopify:\/\/shop_images\/woman-grasping-flowers.jpg",
-        "image_width": 700,
+        "image_width": 1000,
         "subtitle": "",
         "title": "Anniversary collection",
         "text": "<p>Nothing says love and romance like surprising your loved one with a stunning bouquet on your special day.<\/p>",
@@ -229,7 +229,7 @@
       "type": "text-and-image",
       "settings": {
         "image": "shopify:\/\/shop_images\/SugarLand_387_c1523cdc-1b6a-4c78-b09a-f20f1e6124c8.jpg",
-        "image_width": 700,
+        "image_width": 1000,
         "subtitle": "",
         "title": "About House of Blooms",
         "text": "<p>When people receive our flowers we often hear this is the most gorgeous flower design they've ever received. When delivering in hospitals or offices, our designs turn heads.<\/p>",
