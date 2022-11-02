@@ -4417,6 +4417,10 @@ tool-tip[data-tool-tip-open=true] .tool-tip__inner{
   color:var(--colorFooterText)
 }
 
+.site-footer-bottom {
+  background-color: {{ settings.color_footer | default: "#111" | color_darken: 5 }};
+}
+
 @media only screen and (min-width:769px){
 
 .site-footer{
