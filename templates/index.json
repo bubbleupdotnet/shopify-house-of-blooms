@@ -34,9 +34,122 @@
         "autoplay": true,
         "autoplay_speed": 7
       }
+    },
+    "6695862c-09fc-4d99-ad46-72a6423a1204": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--15980294242463__6695862c-09fc-4d99-ad46-72a6423a1204-1667407981f5e5610f-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "Thanksgiving",
+            "focal_point": "center center"
+          }
+        },
+        "template--15980294242463__6695862c-09fc-4d99-ad46-72a6423a1204-1667407981f5e5610f-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "Anniversary",
+            "focal_point": "center center"
+          }
+        },
+        "template--15980294242463__6695862c-09fc-4d99-ad46-72a6423a1204-1667407981f5e5610f-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "Birthday",
+            "focal_point": "center center"
+          }
+        },
+        "template--15980294242463__6695862c-09fc-4d99-ad46-72a6423a1204-1667407981f5e5610f-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "New Baby",
+            "focal_point": "center center"
+          }
+        },
+        "25aa3b9d-7505-465f-8cdf-a1d8d9a8ca39": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "Get Well",
+            "focal_point": "center center"
+          }
+        },
+        "bb5bfa4d-fa48-4943-a19a-e1f42f6a6ff7": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "Thank You",
+            "focal_point": "center center"
+          }
+        },
+        "48b15594-eef1-477a-94c5-f355311d73c8": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "Just Because",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15980294242463__6695862c-09fc-4d99-ad46-72a6423a1204-1667407981f5e5610f-0",
+        "template--15980294242463__6695862c-09fc-4d99-ad46-72a6423a1204-1667407981f5e5610f-1",
+        "template--15980294242463__6695862c-09fc-4d99-ad46-72a6423a1204-1667407981f5e5610f-2",
+        "template--15980294242463__6695862c-09fc-4d99-ad46-72a6423a1204-1667407981f5e5610f-3",
+        "25aa3b9d-7505-465f-8cdf-a1d8d9a8ca39",
+        "bb5bfa4d-fa48-4943-a19a-e1f42f6a6ff7",
+        "48b15594-eef1-477a-94c5-f355311d73c8"
+      ],
+      "settings": {
+        "title": "By Occasion",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
+      }
+    },
+    "1c798c04-2dae-4af7-9d7c-ee8d32365346": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15980294242463__1c798c04-2dae-4af7-9d7c-ee8d32365346-16674079821b613f88-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Say Thank You",
+            "title_size": 60,
+            "subheading": "Make someone smile with a modern arrangement",
+            "link": "",
+            "link_text": "Shop 'Thank You' Arrangements",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#9e2d4d",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/close-up-of-a-colorful-flower-bouquet-in-vibrant-yellow.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15980294242463__1c798c04-2dae-4af7-9d7c-ee8d32365346-16674079821b613f88-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "250px",
+        "parallax": true,
+        "style": "minimal",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
     }
   },
   "order": [
-    "slideshow"
+    "slideshow",
+    "6695862c-09fc-4d99-ad46-72a6423a1204",
+    "1c798c04-2dae-4af7-9d7c-ee8d32365346"
   ]
 }
