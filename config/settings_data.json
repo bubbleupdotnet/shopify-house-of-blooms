@@ -122,7 +122,7 @@
             "settings": {
               "show_footer_title": false,
               "menu": "footer",
-              "container_width": 50
+              "container_width": 25
             }
           },
           "ba870b7f-adfa-4b65-a255-eac0ee1e9d21": {
@@ -130,7 +130,7 @@
             "settings": {
               "show_footer_title": true,
               "title": "Visit Us",
-              "text": "<p>16180 City Walk<br\/>Sugar Land, Texas 77479<\/p>",
+              "text": "<p><a href=\"https:\/\/goo.gl\/maps\/5N2rSc2S8UwFNE1a8\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/5N2rSc2S8UwFNE1a8\">16180 City Walk<br\/>Sugar Land, Texas 77479<\/a><\/p>",
               "container_width": 25
             }
           },
@@ -139,7 +139,7 @@
             "settings": {
               "show_footer_title": true,
               "title": "Call Us",
-              "text": "<p>281-242-1555<\/p>",
+              "text": "<p><a href=\"tel:2822421555\" title=\"tel:2822421555\">(282) 242-1555<\/a><\/p>",
               "container_width": 25
             }
           }
