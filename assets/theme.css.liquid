@@ -1708,9 +1708,16 @@ body:after {
   position: absolute;
   top: 0;
   height: 100%;
-  background-size: 100% auto;
+  background-size: 200% auto;
   background-repeat: repeat-y;
   background-image: url(body-bg.png);
+}
+
+@media (min-width: 1700px) {
+  body:before,
+  body:after {
+    width: 5rem;
+  }
 }
 
 body:before {
