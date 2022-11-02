@@ -189,6 +189,41 @@
         "view_all": false,
         "divider": false
       }
+    },
+    "90d23676-e360-4478-85d3-0be0f0ee3b21": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15980294242463__90d23676-e360-4478-85d3-0be0f0ee3b21-16674089464409f226-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Just Because",
+            "title_size": 60,
+            "subheading": "You don't need a reason to give the gift of flowers",
+            "link": "",
+            "link_text": "Shop Just Because Collection",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#9e2d4d",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/vase-of-pink-purple-and-white-flower-arrangement.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15980294242463__90d23676-e360-4478-85d3-0be0f0ee3b21-16674089464409f226-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "250px",
+        "parallax": true,
+        "style": "minimal",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
     }
   },
   "order": [
@@ -197,6 +232,7 @@
     "1c798c04-2dae-4af7-9d7c-ee8d32365346",
     "8f5a995b-5ec9-4627-90f2-a06b254cb056",
     "01d2fb1e-f6a3-491a-8cb6-775d135f5a1d",
-    "b1dd7141-8e32-4f0f-bc7c-781e38cd3a37"
+    "b1dd7141-8e32-4f0f-bc7c-781e38cd3a37",
+    "90d23676-e360-4478-85d3-0be0f0ee3b21"
   ]
 }
