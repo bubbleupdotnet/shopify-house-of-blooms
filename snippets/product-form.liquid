@@ -23,6 +23,8 @@
       endunless
     -%}
 
+    {% render 'house-of-blooms-custom-line-item-properties' %}
+  
     <button
       {% if product.empty? %}type="button"{% else %}type="submit"{% endif %}
       name="add"
@@ -33,7 +35,6 @@
         {{ button_text }}
       </span>
     </button>
-      {% render 'house-of-blooms-custom-line-item-properties' %}
 
     {%- if enable_dynamic_buttons -%}
       {{ form | payment_button }}
