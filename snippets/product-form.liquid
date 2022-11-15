@@ -33,6 +33,7 @@
         {{ button_text }}
       </span>
     </button>
+      {% render 'house-of-blooms-custom-line-item-properties' %}
 
     {%- if enable_dynamic_buttons -%}
       {{ form | payment_button }}
@@ -59,19 +60,5 @@
       {%- endif -%}
     {%- endfor -%}
   </select>
-  <style>
-    .houseofblooms-custom-fields textarea, .houseofblooms-custom-fields input {
-      width: 100%;
-    }
-  </style>
-  <div class="houseofblooms-custom-fields">
-    <p class="line-item-property__field">
-      <label for="recipient">Recipient's name</label>
-      <input id="recipient" type="text" name="properties[Recipient]">
-    </p>
-    <p class="line-item-property__field">
-      <label for="message">Message to recipient</label>
-      <textarea id="message" type="textarea" name="properties[Message]"></textarea>
-    </p>
-  </div>
+
 {%- endform -%}
