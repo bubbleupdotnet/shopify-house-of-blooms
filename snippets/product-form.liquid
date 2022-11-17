@@ -23,7 +23,10 @@
       endunless
     -%}
 
-    {% render 'house-of-blooms-custom-line-item-properties' %}
+    {% comment %}
+  We use an app for this now. No need to hard-code.
+  {% render 'house-of-blooms-custom-line-item-properties' %}
+  {% endcomment %}
   
     <button
       {% if product.empty? %}type="button"{% else %}type="submit"{% endif %}
