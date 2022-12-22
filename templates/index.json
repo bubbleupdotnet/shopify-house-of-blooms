@@ -189,13 +189,13 @@
     "8f5a995b-5ec9-4627-90f2-a06b254cb056": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/pink-bike-with-a-basket-full-of-flowers.jpg",
+        "image": "shopify:\/\/shop_images\/38745552_10160846823985553_6664334503609106432_n_1.jpg",
         "image_width": 1000,
         "subtitle": "",
-        "title": "The Lavish Collection",
-        "text": "<p>Wow them with Lavish Collection flowers by House of Blooms! Including something for every occasion.<\/p>",
-        "button_label": "Shop Lavish Collection",
-        "button_link": "",
+        "title": "Weddings",
+        "text": "<p>Wow your guests with flowers that are as unique and your Love!<\/p>",
+        "button_label": "Request a consultation",
+        "button_link": "shopify:\/\/pages\/book-an-appointment-content",
         "button_style": "primary",
         "align_text": "center",
         "layout": "right",
