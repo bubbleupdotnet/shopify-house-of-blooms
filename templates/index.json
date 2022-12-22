@@ -21,10 +21,30 @@
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
+        },
+        "83c3e908-74c5-422a-8096-2240f092ec08": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Valentines",
+            "title_size": 80,
+            "subheading": "2.14.23",
+            "link": "shopify:\/\/collections\/valentines-day",
+            "link_text": "Order Early",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#830300",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/champagne-strawberries-and-roses.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
         }
       },
       "block_order": [
-        "slideshow-0"
+        "slideshow-0",
+        "83c3e908-74c5-422a-8096-2240f092ec08"
       ],
       "settings": {
         "section_height": "650px",
