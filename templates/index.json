@@ -10,10 +10,10 @@
             "title": "Welcome",
             "title_size": 60,
             "subheading": "Flowers for all occasions",
-            "link": "shopify:\/\/collections\/all",
+            "link": "shopify:\/\/collections\/reasons-to-celebrate",
             "link_text": "Shop By Occasion",
-            "link_2": "shopify:\/\/collections\/all",
-            "link_text_2": "Shop by Collection",
+            "link_2": "shopify:\/\/collections\/winter-collection",
+            "link_text_2": "Shop Winter Collection",
             "color_accent": "#830300",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/pink-roses-and-white-daisies-outside-a-flower-shop.jpg",
@@ -189,7 +189,7 @@
     "8f5a995b-5ec9-4627-90f2-a06b254cb056": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/peach-roses-on-table.jpg",
+        "image": "shopify:\/\/shop_images\/pink-bike-with-a-basket-full-of-flowers.jpg",
         "image_width": 1000,
         "subtitle": "",
         "title": "The Lavish Collection",
