@@ -7,16 +7,16 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Hello Autumn",
+            "title": "Welcome",
             "title_size": 60,
-            "subheading": "Fall in love with our autumn flowers",
+            "subheading": "Flowers for all occasions",
             "link": "shopify:\/\/collections\/all",
             "link_text": "Shop By Occasion",
             "link_2": "shopify:\/\/collections\/all",
             "link_text_2": "Shop by Collection",
-            "color_accent": "#9e2d4d",
+            "color_accent": "#830300",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/portrait-of-floral-arrangement-in-natural-light.jpg",
+            "image": "shopify:\/\/shop_images\/pink-roses-and-white-daisies-outside-a-flower-shop.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "focal_point": "center center"
@@ -40,11 +40,31 @@
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
+        },
+        "09dc3507-b11e-4b98-b513-ff2a5f22502f": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Stop and",
+            "title": "Smell the Roses",
+            "title_size": 80,
+            "subheading": "Visit our studio",
+            "link": "shopify:\/\/pages\/our-studio",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/shop-local.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
         }
       },
       "block_order": [
         "slideshow-0",
-        "83c3e908-74c5-422a-8096-2240f092ec08"
+        "83c3e908-74c5-422a-8096-2240f092ec08",
+        "09dc3507-b11e-4b98-b513-ff2a5f22502f"
       ],
       "settings": {
         "section_height": "650px",
