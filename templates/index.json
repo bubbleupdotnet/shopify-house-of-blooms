@@ -57,7 +57,7 @@
         "template--15980294242463__6695862c-09fc-4d99-ad46-72a6423a1204-1667407981f5e5610f-2": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "milestones",
             "title": "Birthday",
             "focal_point": "center center"
           }
