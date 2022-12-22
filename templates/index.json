@@ -41,15 +41,15 @@
         "template--15980294242463__6695862c-09fc-4d99-ad46-72a6423a1204-1667407981f5e5610f-0": {
           "type": "collection",
           "settings": {
-            "collection": "",
-            "title": "Thanksgiving",
+            "collection": "valentines-day",
+            "title": "Valentines",
             "focal_point": "center center"
           }
         },
         "template--15980294242463__6695862c-09fc-4d99-ad46-72a6423a1204-1667407981f5e5610f-1": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "anniversary",
             "title": "Anniversary",
             "focal_point": "center center"
           }
@@ -65,7 +65,7 @@
         "template--15980294242463__6695862c-09fc-4d99-ad46-72a6423a1204-1667407981f5e5610f-3": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "new-baby",
             "title": "New Baby",
             "focal_point": "center center"
           }
@@ -73,7 +73,7 @@
         "25aa3b9d-7505-465f-8cdf-a1d8d9a8ca39": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "get-well",
             "title": "Get Well",
             "focal_point": "center center"
           }
@@ -81,15 +81,15 @@
         "bb5bfa4d-fa48-4943-a19a-e1f42f6a6ff7": {
           "type": "collection",
           "settings": {
-            "collection": "",
-            "title": "Thank You",
+            "collection": "gratitude",
+            "title": "Gratitude",
             "focal_point": "center center"
           }
         },
         "48b15594-eef1-477a-94c5-f355311d73c8": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "just-because",
             "title": "Just Because",
             "focal_point": "center center"
           }
@@ -215,6 +215,7 @@
     },
     "b1dd7141-8e32-4f0f-bc7c-781e38cd3a37": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Best Sellers",
         "home_featured_products": "",
@@ -234,7 +235,7 @@
         "title": "About House of Blooms",
         "text": "<p>When people receive our flowers we often hear this is the most gorgeous flower design they've ever received. When delivering in hospitals or offices, our designs turn heads.<\/p>",
         "button_label": "Read More",
-        "button_link": "",
+        "button_link": "shopify:\/\/pages\/our-studio",
         "button_style": "primary",
         "align_text": "center",
         "layout": "right",
