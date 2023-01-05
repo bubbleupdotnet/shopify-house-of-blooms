@@ -59,12 +59,31 @@
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
+        },
+        "2b15118c-f20e-460d-bd57-ddf8e4254bf2": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Two line\ntitle slide.",
+            "title_size": 80,
+            "subheading": "And optional subtext",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
         }
       },
       "block_order": [
         "slideshow-0",
         "83c3e908-74c5-422a-8096-2240f092ec08",
-        "09dc3507-b11e-4b98-b513-ff2a5f22502f"
+        "09dc3507-b11e-4b98-b513-ff2a5f22502f",
+        "2b15118c-f20e-460d-bd57-ddf8e4254bf2"
       ],
       "settings": {
         "section_height": "650px",
@@ -153,6 +172,7 @@
     },
     "1c798c04-2dae-4af7-9d7c-ee8d32365346": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "template--15980294242463__1c798c04-2dae-4af7-9d7c-ee8d32365346-16674079821b613f88-0": {
           "type": "image",
@@ -204,6 +224,7 @@
     },
     "01d2fb1e-f6a3-491a-8cb6-775d135f5a1d": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/love-note-and-roses.jpg",
         "image_width": 1000,
