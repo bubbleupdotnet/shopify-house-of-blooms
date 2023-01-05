@@ -1,80 +1,5 @@
 {
   "sections": {
-    "slideshow": {
-      "type": "slideshow",
-      "blocks": {
-        "slideshow-0": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Welcome",
-            "title_size": 60,
-            "subheading": "Flowers for all occasions",
-            "link": "shopify:\/\/collections\/reasons-to-celebrate",
-            "link_text": "Shop By Occasion",
-            "link_2": "shopify:\/\/collections\/winter-collection-1",
-            "link_text_2": "Shop Winter Collection",
-            "color_accent": "#830300",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/pink-roses-and-white-daisies-outside-a-flower-shop.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
-        },
-        "83c3e908-74c5-422a-8096-2240f092ec08": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Valentines",
-            "title_size": 80,
-            "subheading": "2.14.23",
-            "link": "shopify:\/\/collections\/valentines-day",
-            "link_text": "Order Early",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "#830300",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/champagne-strawberries-and-roses.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
-        },
-        "09dc3507-b11e-4b98-b513-ff2a5f22502f": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "Stop and",
-            "title": "Smell the Roses",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify:\/\/pages\/our-studio",
-            "link_text": "Visit our studio",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/shop-local.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
-        }
-      },
-      "block_order": [
-        "slideshow-0",
-        "83c3e908-74c5-422a-8096-2240f092ec08",
-        "09dc3507-b11e-4b98-b513-ff2a5f22502f"
-      ],
-      "settings": {
-        "section_height": "650px",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "minimal",
-        "autoplay": true,
-        "autoplay_speed": 7
-      }
-    },
     "6695862c-09fc-4d99-ad46-72a6423a1204": {
       "type": "featured-collections",
       "blocks": {
@@ -149,6 +74,81 @@
         "divider": false,
         "per_row": 4,
         "enable_gutter": true
+      }
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Welcome",
+            "title_size": 60,
+            "subheading": "Flowers for all occasions",
+            "link": "shopify:\/\/collections\/reasons-to-celebrate",
+            "link_text": "Shop By Occasion",
+            "link_2": "shopify:\/\/collections\/winter-collection-1",
+            "link_text_2": "Shop Winter Collection",
+            "color_accent": "#830300",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/pink-roses-and-white-daisies-outside-a-flower-shop.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "83c3e908-74c5-422a-8096-2240f092ec08": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Valentines",
+            "title_size": 80,
+            "subheading": "2.14.23",
+            "link": "shopify:\/\/collections\/valentines-day",
+            "link_text": "Order Early",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#830300",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/champagne-strawberries-and-roses.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "09dc3507-b11e-4b98-b513-ff2a5f22502f": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Stop and",
+            "title": "Smell the Roses",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify:\/\/pages\/our-studio",
+            "link_text": "Visit our studio",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/shop-local.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0",
+        "83c3e908-74c5-422a-8096-2240f092ec08",
+        "09dc3507-b11e-4b98-b513-ff2a5f22502f"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "minimal",
+        "autoplay": true,
+        "autoplay_speed": 7
       }
     },
     "1c798c04-2dae-4af7-9d7c-ee8d32365346": {
@@ -284,8 +284,8 @@
     }
   },
   "order": [
-    "slideshow",
     "6695862c-09fc-4d99-ad46-72a6423a1204",
+    "slideshow",
     "1c798c04-2dae-4af7-9d7c-ee8d32365346",
     "8f5a995b-5ec9-4627-90f2-a06b254cb056",
     "01d2fb1e-f6a3-491a-8cb6-775d135f5a1d",
