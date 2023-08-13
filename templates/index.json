@@ -45,6 +45,26 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
+            "title": "Thanksgiving",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify:\/\/collections\/thanksgiving-1",
+            "link_text": "Centerpice Designs",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/winding-road-covered-in-autumn-trees.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/warm-colored-autumn-leaves.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "b567dea4-4ba2-43ac-b817-ca7f52477ffa": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
             "title": "Two line\ntitle slide.",
             "title_size": 80,
             "subheading": "And optional subtext",
@@ -63,7 +83,8 @@
       "block_order": [
         "slideshow-0",
         "09dc3507-b11e-4b98-b513-ff2a5f22502f",
-        "2b15118c-f20e-460d-bd57-ddf8e4254bf2"
+        "2b15118c-f20e-460d-bd57-ddf8e4254bf2",
+        "b567dea4-4ba2-43ac-b817-ca7f52477ffa"
       ],
       "settings": {
         "section_height": "650px",

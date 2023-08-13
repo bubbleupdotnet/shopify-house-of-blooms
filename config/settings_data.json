@@ -276,6 +276,12 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "16810700797357988751": {
+        "type": "shopify:\/\/apps\/cozy-image-gallery\/blocks\/Cozy_Image_Gallery_1.0.0\/9808695d-eb84-434d-80d6-cfbcef2d7548",
+        "disabled": true,
+        "settings": {
+        }
       }
     }
   },
