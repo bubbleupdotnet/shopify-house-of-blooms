@@ -22,6 +22,26 @@
             "focal_point": "center center"
           }
         },
+        "4dedd4d9-b14d-44aa-a499-883bf85d2d2f": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Fall in love with our\nAutumn Breeze Collection",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify:\/\/collections\/fall-collection-autumn-breeze",
+            "link_text": "Shop Now",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/autumn-flowers-in-bloom.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/autumn-flowers-in-bloom.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
         "09dc3507-b11e-4b98-b513-ff2a5f22502f": {
           "type": "image",
           "settings": {
@@ -49,7 +69,7 @@
             "title_size": 80,
             "subheading": "",
             "link": "shopify:\/\/collections\/thanksgiving-1",
-            "link_text": "Centerpice Designs",
+            "link_text": "Centerpiece Designs",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -60,33 +80,13 @@
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
-        },
-        "4dedd4d9-b14d-44aa-a499-883bf85d2d2f": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Fall in love with our\nAutumn Breeze Collection",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify:\/\/collections\/fall-collection-autumn-breeze",
-            "link_text": "Shop Now",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/autumn-flowers-in-bloom.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/autumn-flowers-in-bloom.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
         }
       },
       "block_order": [
         "slideshow-0",
+        "4dedd4d9-b14d-44aa-a499-883bf85d2d2f",
         "09dc3507-b11e-4b98-b513-ff2a5f22502f",
-        "2b15118c-f20e-460d-bd57-ddf8e4254bf2",
-        "4dedd4d9-b14d-44aa-a499-883bf85d2d2f"
+        "2b15118c-f20e-460d-bd57-ddf8e4254bf2"
       ],
       "settings": {
         "section_height": "650px",
