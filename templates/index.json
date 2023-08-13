@@ -79,6 +79,7 @@
       "blocks": {
         "template--15980294242463__6695862c-09fc-4d99-ad46-72a6423a1204-1667407981f5e5610f-0": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "valentines-day",
             "title": "Valentines",
@@ -132,6 +133,14 @@
             "title": "Just Because",
             "focal_point": "center center"
           }
+        },
+        "2bec34a4-bf10-482f-a105-06b3fb435048": {
+          "type": "collection",
+          "settings": {
+            "collection": "fall-collection-autumn-breeze",
+            "title": "",
+            "focal_point": "center center"
+          }
         }
       },
       "block_order": [
@@ -141,7 +150,8 @@
         "template--15980294242463__6695862c-09fc-4d99-ad46-72a6423a1204-1667407981f5e5610f-3",
         "25aa3b9d-7505-465f-8cdf-a1d8d9a8ca39",
         "bb5bfa4d-fa48-4943-a19a-e1f42f6a6ff7",
-        "48b15594-eef1-477a-94c5-f355311d73c8"
+        "48b15594-eef1-477a-94c5-f355311d73c8",
+        "2bec34a4-bf10-482f-a105-06b3fb435048"
       ],
       "settings": {
         "title": "By Occasion",
