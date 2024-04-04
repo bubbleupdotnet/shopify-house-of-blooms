@@ -161,6 +161,7 @@
         },
         "2bec34a4-bf10-482f-a105-06b3fb435048": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "fall-collection-autumn-breeze",
             "title": "",
