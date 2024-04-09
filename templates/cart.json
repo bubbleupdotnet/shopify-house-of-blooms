@@ -31,6 +31,7 @@
             "button_width": "35rem",
             "button_height": 100,
             "modal_background": "linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%)",
+            "modal_header_image": "shopify:\/\/shop_images\/logo.png",
             "promo_code": ""
           }
         }
