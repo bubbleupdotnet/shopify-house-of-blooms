@@ -2,21 +2,6 @@
   "sections": {
     "1712171481cd5454d5": {
       "type": "apps",
-      "blocks": {
-        "cardcraft_personal_greetings_voucher_block_3cAnUc": {
-          "type": "shopify:\/\/apps\/cardcraft-personal-greetings\/blocks\/voucher-block\/d7e2f729-8b8b-4faa-8911-5edd6b64a44a",
-          "disabled": true,
-          "settings": {
-            "button_width": "35rem",
-            "button_height": 100,
-            "modal_background": "linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%)",
-            "promo_code": ""
-          }
-        }
-      },
-      "block_order": [
-        "cardcraft_personal_greetings_voucher_block_3cAnUc"
-      ],
       "settings": {
         "full_width": false,
         "space_around": true
