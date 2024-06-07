@@ -1,4 +1,4 @@
-.product-single__form input {
+.product-single__form input, .product-single__form select {
     border: 1px solid #9b9b9b;
     margin-bottom: 20px;
 }
