@@ -2,3 +2,8 @@
     border: 1px solid #9b9b9b;
     margin-bottom: 20px;
 }
+.product-single__form .btn.add-to-cart {
+    background: #830300;
+    color: #ffffff;
+    border: none;
+}
