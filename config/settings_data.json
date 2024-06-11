@@ -265,12 +265,6 @@
 
     ],
     "blocks": {
-      "14479319785270113485": {
-        "type": "shopify:\/\/apps\/zapiet-pickup-delivery\/blocks\/app-embed\/5599aff0-8af1-473a-a372-ecd72a32b4d5",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "11724500921838622758": {
         "type": "shopify:\/\/apps\/frequently-bought-together\/blocks\/app-embed-block\/b1a8cbea-c844-4842-9529-7c62dbab1b1f",
         "disabled": false,
@@ -279,6 +273,12 @@
       },
       "16810700797357988751": {
         "type": "shopify:\/\/apps\/cozy-image-gallery\/blocks\/Cozy_Image_Gallery_1.0.0\/9808695d-eb84-434d-80d6-cfbcef2d7548",
+        "disabled": true,
+        "settings": {
+        }
+      },
+      "14479319785270113485": {
+        "type": "shopify:\/\/apps\/zapiet-pick-delivery\/blocks\/app-embed\/5599aff0-8af1-473a-a372-ecd72a32b4d5",
         "disabled": true,
         "settings": {
         }

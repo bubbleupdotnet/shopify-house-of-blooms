@@ -9,22 +9,6 @@
     },
     "17121716568d83d2cc": {
       "type": "apps",
-      "blocks": {
-        "cardcraft_personal_greetings_voucher_block_kybCrV": {
-          "type": "shopify:\/\/apps\/cardcraft-personal-greetings\/blocks\/voucher-block\/d7e2f729-8b8b-4faa-8911-5edd6b64a44a",
-          "disabled": true,
-          "settings": {
-            "button_width": "35rem",
-            "button_height": 100,
-            "modal_background": "linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%)",
-            "modal_header_image": "shopify:\/\/shop_images\/logo.png",
-            "promo_code": ""
-          }
-        }
-      },
-      "block_order": [
-        "cardcraft_personal_greetings_voucher_block_kybCrV"
-      ],
       "settings": {
         "full_width": false,
         "space_around": true
