@@ -48,8 +48,8 @@
         "please_enter_your_shipping_information_notice": "Please go back to the shopping cart page and choose a pickup location."
       },
       "payment": {
-        "same_billing_address_label": "Do not select",
-        "same_billing_address_checkbox_label": "Do not select"
+        "same_billing_address_label": "Do not select for Store Pickup",
+        "same_billing_address_checkbox_label": "Do not select for Store Pickup"
       },
       "shipping_title": "Store Pickup"
     }
