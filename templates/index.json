@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "slideshow": {
@@ -12,8 +21,8 @@
             "subheading": "Flowers for all occasions",
             "link": "shopify:\/\/collections\/reasons-to-celebrate",
             "link_text": "Shop By Occasion",
-            "link_2": "shopify:\/\/collections\/mothers-day",
-            "link_text_2": "Shop Mothers Day",
+            "link_2": "",
+            "link_text_2": "",
             "color_accent": "#830300",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/pink-roses-and-white-daisies-outside-a-flower-shop.jpg",
