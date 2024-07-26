@@ -132,7 +132,7 @@
           "type": "collection",
           "settings": {
             "collection": "milestones",
-            "title": "Birthday",
+            "title": "",
             "focal_point": "center center"
           }
         },
