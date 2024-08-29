@@ -27,13 +27,13 @@
             "body_font": "tenor_sans_n4",
             "widget_heading": "Make your gift more special",
             "text_color": "#121212",
-            "bg_color": "transparent",
+            "bg_color": "rgba(0,0,0,0)",
             "accent_color": "#303030",
             "vertical_padding": 16,
             "horizontal_padding": 0,
             "corner_radius": 0,
             "space_between_sections": 16,
-            "button_text_color": "#FFFFFF",
+            "button_text_color": "#ffffff",
             "button_bg_color": "#830300",
             "button_radius": 6,
             "outline_button": false
@@ -46,6 +46,7 @@
         },
         "variant_picker": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "variant_labels": true,
             "picker_type": "button",
