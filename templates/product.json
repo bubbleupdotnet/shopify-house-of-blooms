@@ -17,6 +17,28 @@
           "settings": {
           }
         },
+        "nuflorist_product_widget_XL3BqK": {
+          "type": "shopify:\/\/apps\/nuflorist\/blocks\/product-widget\/6cb293b8-d17c-4f07-a407-9e4ad564c6b0",
+          "settings": {
+            "app_product": "{{product}}",
+            "show_variant_picker": "true",
+            "show_quantity_picker": "true",
+            "heading_font": "tenor_sans_n4",
+            "body_font": "tenor_sans_n4",
+            "widget_heading": "Make your gift more special",
+            "text_color": "#121212",
+            "bg_color": "transparent",
+            "accent_color": "#303030",
+            "vertical_padding": 16,
+            "horizontal_padding": 0,
+            "corner_radius": 0,
+            "space_between_sections": 16,
+            "button_text_color": "#FFFFFF",
+            "button_bg_color": "#830300",
+            "button_radius": 6,
+            "outline_button": false
+          }
+        },
         "separator": {
           "type": "separator",
           "settings": {
@@ -33,6 +55,7 @@
         },
         "buy_buttons": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_dynamic_checkout": true,
             "surface_pickup_enable": true
@@ -47,6 +70,7 @@
       },
       "block_order": [
         "price",
+        "nuflorist_product_widget_XL3BqK",
         "separator",
         "variant_picker",
         "buy_buttons",
