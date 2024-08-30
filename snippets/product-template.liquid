@@ -434,3 +434,29 @@
   </div>
 </div>
 
+
+<script>
+
+      function displayProductInfo() {
+      // Get the product JSON from a Shopify Liquid object
+      var productJson = window.productJson; // Assuming you have a global variable for product JSON
+
+      // Check if productJson exists
+      if (!productJson) {
+        console.error('Product JSON is not available.');
+        return;
+      }
+
+      // Extract product details
+      var productName = productJson.title;
+      var productVariants = productJson.variants;
+
+      // Display product details
+      console.log('Product Name:', productName);
+      console.log('Variants:');
+
+      }
+displayProductInfo()
+  
+</script>
+                                  
