@@ -12,25 +12,11 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "price": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "variant_labels": true,
-            "picker_type": "button",
-            "product_dynamic_variants_enable": true,
-            "color_swatches": false
-          }
-        },
         "nuflorist_product_widget_XL3BqK": {
           "type": "shopify:\/\/apps\/nuflorist\/blocks\/product-widget\/6cb293b8-d17c-4f07-a407-9e4ad564c6b0",
           "settings": {
             "app_product": "{{product}}",
-            "show_variant_picker": "false",
+            "show_variant_picker": "true",
             "show_quantity_picker": "true",
             "heading_font": "tenor_sans_n4",
             "body_font": "tenor_sans_n4",
@@ -69,8 +55,6 @@
         }
       },
       "block_order": [
-        "price",
-        "variant_picker",
         "nuflorist_product_widget_XL3BqK",
         "separator",
         "buy_buttons",
