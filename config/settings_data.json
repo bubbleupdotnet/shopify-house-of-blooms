@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "color_body_bg": "#ffffff",
@@ -71,13 +71,13 @@
     "cart_type": "drawer",
     "cart_notes_enable": false,
     "cart_terms_conditions_enable": false,
-    "social_facebook_link": "https:\/\/www.facebook.com\/thehouseofblooms",
-    "social_pinterest_link": "http:\/\/www.pinterest.com\/thehouseofbloom",
-    "social_instagram_link": "https:\/\/www.instagram.com\/thehouseofblooms\/?hl=en",
-    "social_linkedin_link": "https:\/\/www.linkedin.com\/company\/house-of-blooms\/?viewAsMember=true",
+    "social_facebook_link": "https://www.facebook.com/thehouseofblooms",
+    "social_pinterest_link": "http://www.pinterest.com/thehouseofbloom",
+    "social_instagram_link": "https://www.instagram.com/thehouseofblooms/?hl=en",
+    "social_linkedin_link": "https://www.linkedin.com/company/house-of-blooms/?viewAsMember=true",
     "show_breadcrumbs": false,
     "disable_animations": true,
-    "checkout_logo_image": "shopify:\/\/shop_images\/logo.png",
+    "checkout_logo_image": "shopify://shop_images/logo.png",
     "checkout_logo_position": "left",
     "checkout_logo_size": "large",
     "checkout_body_background_color": "#ffffff",
@@ -96,7 +96,7 @@
           "1524770014057": {
             "type": "logo",
             "settings": {
-              "logo": "shopify:\/\/shop_images\/logo_clear.png",
+              "logo": "shopify://shop_images/logo_clear.png",
               "desktop_logo_width": 200,
               "mobile_logo_width": 130
             }
@@ -147,7 +147,7 @@
             "settings": {
               "show_footer_title": true,
               "title": "Location",
-              "text": "<p><a href=\"https:\/\/goo.gl\/maps\/5N2rSc2S8UwFNE1a8\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/5N2rSc2S8UwFNE1a8\">16170 City Walk<br\/>Sugar Land, Texas 77479<\/a><\/p><p>(281) 242-1555<\/p>",
+              "text": "<p><a href=\"https://goo.gl/maps/5N2rSc2S8UwFNE1a8\" target=\"_blank\" title=\"https://goo.gl/maps/5N2rSc2S8UwFNE1a8\">16170 City Walk<br/>Sugar Land, Texas 77479</a></p><p>(281) 242-1555</p>",
               "container_width": 33
             }
           },
@@ -196,7 +196,7 @@
           "popup_seconds": 5,
           "popup_days": 30,
           "popup_title": "Sign up and save",
-          "popup_text": "<p>Entice customers to sign up for your mailing list with discounts or exclusive offers. Include an image for extra impact.<\/p>",
+          "popup_text": "<p>Entice customers to sign up for your mailing list with discounts or exclusive offers. Include an image for extra impact.</p>",
           "image_position": "left",
           "show_social_icons": false,
           "enable_newsletter": true,
@@ -219,11 +219,11 @@
           "enable_test_mode": false,
           "blur_image": false,
           "heading": "Confirm your age",
-          "text": "<p>Are you 18 years old or older?<\/p>",
+          "text": "<p>Are you 18 years old or older?</p>",
           "decline_button_label": "No I'm not",
           "approve_button_label": "Yes I am",
           "decline_heading": "Come back when you're older",
-          "decline_text": "<p>Sorry, the content of this store can't be seen by a younger audience. Come back when you're older.<\/p>",
+          "decline_text": "<p>Sorry, the content of this store can't be seen by a younger audience. Come back when you're older.</p>",
           "return_button_label": "Oops, I entered incorrectly"
         }
       },
@@ -235,7 +235,7 @@
             "settings": {
               "enable_image": false,
               "title": "Local Delivery",
-              "text": "<p>Place your order by 1 PM for same-day residential, hospital, and business delivery.<\/p>",
+              "text": "<p>Place your order by 1 PM for same-day residential, hospital, and business delivery.</p>",
               "button_label": "",
               "button_link": ""
             }
@@ -245,7 +245,7 @@
             "settings": {
               "enable_image": false,
               "title": "100% Fresh Guaranteed",
-              "text": "<p>Once your order is placed, our thoughtful floral artisans put together your arrangement by hand. Every time.<\/p>",
+              "text": "<p>Once your order is placed, our thoughtful floral artisans put together your arrangement by hand. Every time.</p>",
               "button_label": "",
               "button_link": ""
             }
@@ -255,7 +255,7 @@
             "settings": {
               "enable_image": false,
               "title": "Custom Floral Designs",
-              "text": "<p>We take pride and the time to create each fresh design just for you, because it's the customer we care about most.<\/p>",
+              "text": "<p>We take pride and the time to create each fresh design just for you, because it's the customer we care about most.</p>",
               "button_label": "",
               "button_link": ""
             }
@@ -272,27 +272,22 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "11724500921838622758": {
-        "type": "shopify:\/\/apps\/frequently-bought-together\/blocks\/app-embed-block\/b1a8cbea-c844-4842-9529-7c62dbab1b1f",
+        "type": "shopify://apps/frequently-bought-together/blocks/app-embed-block/b1a8cbea-c844-4842-9529-7c62dbab1b1f",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "16810700797357988751": {
-        "type": "shopify:\/\/apps\/cozy-image-gallery\/blocks\/Cozy_Image_Gallery_1.0.0\/9808695d-eb84-434d-80d6-cfbcef2d7548",
+        "type": "shopify://apps/cozy-image-gallery/blocks/Cozy_Image_Gallery_1.0.0/9808695d-eb84-434d-80d6-cfbcef2d7548",
         "disabled": true,
-        "settings": {
-        }
+        "settings": {}
       },
       "14479319785270113485": {
-        "type": "shopify:\/\/apps\/zapiet-pick-delivery\/blocks\/app-embed\/5599aff0-8af1-473a-a372-ecd72a32b4d5",
+        "type": "shopify://apps/zapiet-pick-delivery/blocks/app-embed/5599aff0-8af1-473a-a372-ecd72a32b4d5",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       }
     }
   },
@@ -444,15 +439,13 @@
             "reminder-block": {
               "type": "header",
               "disabled": true,
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
             "reminder-block"
           ],
-          "settings": {
-          }
+          "settings": {}
         },
         "collection-header": {
           "type": "collection-header",
@@ -551,7 +544,7 @@
               "settings": {
                 "text": "Free shipping",
                 "link_text": "On all orders over $100",
-                "link": "shopify:\/\/collections\/all"
+                "link": "shopify://collections/all"
               }
             },
             "1520888647304": {
@@ -559,7 +552,7 @@
               "settings": {
                 "text": "Hassle-free returns",
                 "link_text": "30-day postage paid returns",
-                "link": "shopify:\/\/collections\/all"
+                "link": "shopify://collections/all"
               }
             }
           },
@@ -600,7 +593,7 @@
               "settings": {
                 "show_footer_title": true,
                 "title": "Sign up and save",
-                "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>",
+                "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>",
                 "container_width": 30
               }
             },
@@ -634,7 +627,7 @@
             "popup_seconds": 5,
             "popup_days": 30,
             "popup_title": "Sign up and save",
-            "popup_text": "<p>Entice customers to sign up for your mailing list with discounts or exclusive offers. Include an image for extra impact.<\/p>",
+            "popup_text": "<p>Entice customers to sign up for your mailing list with discounts or exclusive offers. Include an image for extra impact.</p>",
             "popup_image": "",
             "enable_newsletter": true,
             "button_label": "Optional button",
@@ -658,7 +651,7 @@
                 "enable_image": true,
                 "image": "",
                 "title": "Site-wide promotion",
-                "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+                "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
                 "button_label": "Optional button",
                 "button_link": ""
               }
@@ -669,7 +662,7 @@
                 "enable_image": true,
                 "image": "",
                 "title": "Site-wide promotion",
-                "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+                "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
                 "button_label": "Optional button",
                 "button_link": ""
               }
@@ -680,7 +673,7 @@
                 "enable_image": true,
                 "image": "",
                 "title": "Site-wide promotion",
-                "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+                "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
                 "button_label": "Optional button",
                 "button_link": ""
               }
@@ -794,8 +787,7 @@
           "blocks": {
             "1524768779513": {
               "type": "logo",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
@@ -816,8 +808,7 @@
           "blocks": {
             "1494292487693": {
               "type": "newsletter",
-              "settings": {
-              }
+              "settings": {}
             },
             "1526406521795": {
               "type": "menu",
@@ -844,8 +835,7 @@
         },
         "newsletter-popup": {
           "type": "newsletter-popup",
-          "settings": {
-          }
+          "settings": {}
         },
         "collection-header": {
           "type": "collection-header",
@@ -857,5 +847,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "#custom_message-0-0{display:none;}"
+    ]
   }
 }
