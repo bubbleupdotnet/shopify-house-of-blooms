@@ -291,7 +291,7 @@
       },
       "18228966181090706294": {
         "type": "shopify://apps/selleasy/blocks/app-embed/790c1a03-a71f-4bc1-9869-00dad526d3c2",
-        "disabled": false,
+        "disabled": true,
         "settings": {
           "storefrontAccessToken": "56dcffd846e8ee5101ce239b6c89eb3f"
         }
